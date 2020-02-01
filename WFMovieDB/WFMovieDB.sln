@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFMovieDB", "WFMovieDB\WFMovieDB.csproj", "{D7513A72-2455-4843-B3E7-E466C8E5E1EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLDB", "MySQLDB\MySQLDB.csproj", "{E7C39D1E-0FAE-4D1F-AD94-D7C60F949A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7513A72-2455-4843-B3E7-E466C8E5E1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7513A72-2455-4843-B3E7-E466C8E5E1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7513A72-2455-4843-B3E7-E466C8E5E1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7513A72-2455-4843-B3E7-E466C8E5E1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C39D1E-0FAE-4D1F-AD94-D7C60F949A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C39D1E-0FAE-4D1F-AD94-D7C60F949A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C39D1E-0FAE-4D1F-AD94-D7C60F949A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C39D1E-0FAE-4D1F-AD94-D7C60F949A58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6305B730-D1B6-4036-A9F1-BE3FCD037142}
+	EndGlobalSection
+EndGlobal

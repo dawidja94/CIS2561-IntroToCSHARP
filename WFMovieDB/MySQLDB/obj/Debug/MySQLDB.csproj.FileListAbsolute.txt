@@ -1,0 +1,36 @@
+C:\Users\COD_User\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.dll.config
+C:\Users\COD_User\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.dll
+C:\Users\COD_User\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.pdb
+C:\Users\COD_User\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySql.Data.dll
+C:\Users\COD_User\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csprojAssemblyReference.cache
+C:\Users\COD_User\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csproj.CoreCompileInputs.cache
+C:\Users\COD_User\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csproj.CopyComplete
+C:\Users\COD_User\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.dll
+C:\Users\COD_User\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.pdb
+D:\C#.NET\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.dll.config
+D:\C#.NET\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.dll
+D:\C#.NET\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.pdb
+D:\C#.NET\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySql.Data.dll
+D:\C#.NET\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csprojAssemblyReference.cache
+D:\C#.NET\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csproj.CoreCompileInputs.cache
+D:\C#.NET\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csproj.CopyComplete
+D:\C#.NET\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.dll
+D:\C#.NET\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.pdb
+C:\Users\dawid\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.dll.config
+C:\Users\dawid\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.dll
+C:\Users\dawid\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.pdb
+C:\Users\dawid\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySql.Data.dll
+C:\Users\dawid\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csproj.CopyComplete
+C:\Users\dawid\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.dll
+C:\Users\dawid\Desktop\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.pdb
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.dll.config
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.dll
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySQLDB.pdb
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\MySQL Movie DB\WFMovieDB\MySQLDB\bin\Debug\MySql.Data.dll
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.csproj.CopyComplete
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.dll
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\MySQL Movie DB\WFMovieDB\MySQLDB\obj\Debug\MySQLDB.pdb

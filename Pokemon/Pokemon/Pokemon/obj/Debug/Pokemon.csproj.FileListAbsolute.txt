@@ -1,0 +1,24 @@
+C:\Users\dawid\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\dawid\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\dawid\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\dawid\Desktop\Pokemon\Pokemon\bin\Debug\MySql.Data.dll
+C:\Users\dawid\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\dawid\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\dawid\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CopyComplete
+C:\Users\dawid\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\dawid\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\bin\Debug\MySql.Data.dll
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CopyComplete
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\dawid\Desktop\School\Fall 2018\CIS 2561\Pokemon\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
