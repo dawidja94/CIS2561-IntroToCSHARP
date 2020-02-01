@@ -1,0 +1,1 @@
+This repository contains projects for CIS2561 - Intro to C#
